@@ -1,8 +1,8 @@
 {
-  "name": "serverless-layers",
-  "version": "2.6.1",
+  "name": "@mikeatjulaya/serverless-layers",
+  "version": "2.6.3",
   "description": "",
-  "main": "src/index.js",
+  "main": "lib/index.js",
   "bugs": {
     "url": "https://github.com/agutoli/serverless-layers/issues"
   },
